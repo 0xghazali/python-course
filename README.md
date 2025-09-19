@@ -8,3 +8,6 @@ Download Pycharm Because they help you a lot when writing code if you are a begi
 # Lesson 2: If / Else (Python Decisions) >> https://youtu.be/iEG7gFD9tdo
 # Lesson 3: Lesson 3: Loops in Python >> https://youtu.be/XMzlgBAr45I
 # Lesson 4: Functions in Python >> https://youtu.be/lLZ1RpfMmKo
+# Lesson 5: Lists in Python >> https://youtu.be/FYO4ttbSs6E
+# Lesson 6: Dictionaries in Python >> https://youtu.be/qkcjQOHVJCk
+# Lesson 7: Modules & Import in Python >> https://youtu.be/_uzTRiSNd-M
